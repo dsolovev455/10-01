@@ -111,7 +111,7 @@
 `Приведите ответ в свободной форме........`
 
 
-https://github.com/dsolovev455/9-03/blob/main/txt/Vagrgantfile
+https://github.com/dsolovev455/9-03/blob/main/txt/Vagrantfile
 
 https://github.com/dsolovev455/9-03/blob/main/txt/zabbix-agent.sh
 
