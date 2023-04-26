@@ -27,7 +27,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/1.png)
+![alt text](https://github.com/dsolovev455/9-04/blob/main/img/1.png)
 
 
 ---
@@ -37,7 +37,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/2.png)
+![alt text](https://github.com/dsolovev455/9-04/blob/main/img/2.png)
 
 
 ---
@@ -47,10 +47,10 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/3.png)
+![alt text](https://github.com/dsolovev455/9-04/blob/main/img/3.png)
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/4.png)
+![alt text](https://github.com/dsolovev455/9-04/blob/main/img/4.png)
 
 
 
@@ -59,7 +59,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/5.png)
+![alt text](https://github.com/dsolovev455/9-04/blob/main/img/5.png)
 
 
 ---
@@ -69,7 +69,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/6.png)
+![alt text](https://github.com/dsolovev455/9-04/blob/main/img/6.png)
 
 
 ---
