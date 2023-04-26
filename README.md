@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix. Часть 2`" - `Соловьев Д.В`
+# Домашнее задание к занятию "`Система мониторинга Prometheus`" - `Соловьев Д.В`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -47,7 +47,11 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/2.png)
+![alt text](https://github.com/dsolovev455/9-03/blob/main/img/3.png)
+
+
+![alt text](https://github.com/dsolovev455/9-03/blob/main/img/4.png)
+
 
 
 ### Задание 4
@@ -55,7 +59,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/3.png)
+![alt text](https://github.com/dsolovev455/9-03/blob/main/img/5.png)
 
 
 ---
@@ -65,55 +69,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/4.png)
-
-
----
-
-### Задание 6
-
-`Приведите ответ в свободной форме........`
-
-
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/5.png)
-
-
----
-
-### Задание 7
-
-`Приведите ответ в свободной форме........`
-
-
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/5.png)
-
-
----
-
-
-### Задание 8
-
-`Приведите ответ в свободной форме........`
-
-
 ![alt text](https://github.com/dsolovev455/9-03/blob/main/img/6.png)
-
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/7.png)
-
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/8.png)
-
-![alt text](https://github.com/dsolovev455/9-03/blob/main/img/9.png)
-
----
-
-### Задание 9
-
-`Приведите ответ в свободной форме........`
-
-
-https://github.com/dsolovev455/9-03/blob/main/txt/Vagrantfile
-
-https://github.com/dsolovev455/9-03/blob/main/txt/zabbix-agent.sh
 
 
 ---
