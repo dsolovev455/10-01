@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Система мониторинга Prometheus`" - `Соловьев Д.В`
+# Домашнее задание к занятию "`Prometheus. Часть 2`" - `Соловьев Д.В`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -27,7 +27,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-04/blob/main/img/1.png)
+![alt text](https://github.com/dsolovev455/9-05/blob/main/img/1.png)
 
 
 ---
@@ -37,7 +37,9 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-04/blob/main/img/2.png)
+![alt text](https://github.com/dsolovev455/9-05/blob/main/img/2.png)
+
+![alt text](https://github.com/dsolovev455/9-05/blob/main/img/3.png)
 
 
 ---
@@ -46,11 +48,13 @@
 
 `Приведите ответ в свободной форме........`
 
+![alt text](https://github.com/dsolovev455/9-05/blob/main/img/4.png)
 
-![alt text](https://github.com/dsolovev455/9-04/blob/main/img/3.png)
+
+![alt text](https://github.com/dsolovev455/9-05/blob/main/img/5.png)
 
 
-![alt text](https://github.com/dsolovev455/9-04/blob/main/img/4.png)
+![alt text](https://github.com/dsolovev455/9-05/blob/main/img/6.png)
 
 
 
@@ -59,17 +63,7 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-04/blob/main/img/5.png)
-
-
----
-
-### Задание 5
-
-`Приведите ответ в свободной форме........`
-
-
-![alt text](https://github.com/dsolovev455/9-04/blob/main/img/6.png)
+![alt text](https://github.com/dsolovev455/9-05/blob/main/img/7.png)
 
 
 ---
