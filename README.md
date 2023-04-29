@@ -32,6 +32,8 @@
 ![alt text](https://github.com/dsolovev455/10-01/blob/main/img/2.png)
 
 
+`Конфиги:`
+
 https://github.com/dsolovev455/10-01/blob/main/txt/config.txt
 
 
