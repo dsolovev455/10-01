@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`Prometheus. Часть 2`" - `Соловьев Д.В`
+# Домашнее задание к занятию "`Keepalived/vrrp`" - `Соловьев Д.В`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -27,7 +27,12 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-05/blob/main/img/1.png)
+![alt text](https://github.com/dsolovev455/10-01/blob/main/img/1.png)
+
+![alt text](https://github.com/dsolovev455/10-01/blob/main/img/2.png)
+
+
+https://github.com/dsolovev455/10-01/blob/main/txt/config.txt
 
 
 ---
@@ -37,33 +42,11 @@
 `Приведите ответ в свободной форме........`
 
 
-![alt text](https://github.com/dsolovev455/9-05/blob/main/img/2.png)
+![alt text](https://github.com/dsolovev455/10-01/blob/main/img/3.png)
 
-![alt text](https://github.com/dsolovev455/9-05/blob/main/img/3.png)
+![alt text](https://github.com/dsolovev455/10-01/blob/main/img/4.png)
 
-
----
-
-### Задание 3
-
-`Приведите ответ в свободной форме........`
-
-![alt text](https://github.com/dsolovev455/9-05/blob/main/img/4.png)
-
-
-![alt text](https://github.com/dsolovev455/9-05/blob/main/img/5.png)
-
-
-![alt text](https://github.com/dsolovev455/9-05/blob/main/img/6.png)
-
-
-
-### Задание 4
-
-`Приведите ответ в свободной форме........`
-
-
-![alt text](https://github.com/dsolovev455/9-05/blob/main/img/7.png)
+![alt text](https://github.com/dsolovev455/10-01/blob/main/img/5.png)
 
 
 ---
